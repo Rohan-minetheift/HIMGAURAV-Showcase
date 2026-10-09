@@ -1,0 +1,22 @@
+# Showcase-only repository: do not import the app working directory.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+*service-account*.json
+*firebase-adminsdk*.json
+google-services.json
+*.sqlite*
+*.db
+*.log
+*.apk
+*.aab
+*.zip
+data/
+backups/
+node_modules/
+.venv/
+private/
